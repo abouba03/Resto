@@ -1,6 +1,6 @@
 # Projet Web page restaurant
 
-![preview](./Previews/preview.png)
+![preview](./Previews/view.png)
 > Explorer Trail
 
 # Description
@@ -11,15 +11,11 @@ Cette page web a été fait grace a un cours sur internet, mais dans lequel j'ai
 * JavaScript
 * Git and GitHub
 
-# [🔗Click here to access the page](https://inacio000.github.io/nlw-project/) 
-# Or scan the code bellow
-![qrcode](./Previews/qrcode.png)
+# [🔗Click here to access the page](#) 
 
 
 # 💬 Contact me
-<a href="https://www.linkedin.com/in/inácio-raimundo-06b100209" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
- <a href = "mailto:inacioraimundo998@gmail.com">
+
+ <a href = "mailto:abouba1703@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
